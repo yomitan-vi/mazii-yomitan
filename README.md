@@ -1,7 +1,7 @@
 # mazii-yomitan
 
-Từ điển Nhật - Việt Mazii cho Yomitan. Tạo dựa trên source từ [PainterHalver/mazii_to_yomichan](https://github.com/PainterHalver/mazii_to_yomichan)
+Từ điển Nhật - Việt Mazii cho Yomitan: <https://mazii.net/vi-VN>
 
-Tải xuống: [Từ điển Nhật - Việt Mazii](tu-dien-nhat-viet-mazii.zip).
+Tải xuống: [Từ điển Nhật - Việt Mazii](assets/mazii.zip).
 
-![](preview.png)
+![](assets/preview.png)
